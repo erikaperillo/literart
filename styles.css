@@ -180,6 +180,14 @@ h2 {
   max-width: 720px;
 }
 
+figcaption {
+  font-size: 0.75rem;
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: -20px;
+  font-weight: bold;
+}
+
 /* Mobile Styles */
 
 @media (max-width: 850px) {
